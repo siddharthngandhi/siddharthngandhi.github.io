@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hi Thomasina!
+title: Hi!
 description: You're the best
 ---
 
