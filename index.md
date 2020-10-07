@@ -1,3 +1,7 @@
-Hi Thomasina!
+---
+layout: default
+title: Hi Thomasina!
+description: You're the best
+---
 
-# You're the best <3
+As I was saying, you are the bestest.
