@@ -1,5 +1,5 @@
 ---
 layout: default
-banner_image:banner
+banner_image: banner
 ---
 Hi!
