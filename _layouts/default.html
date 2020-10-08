@@ -8,11 +8,12 @@
      border-bottom: 10px solid #00ccff;
     }
     header.page-header{
+    {% if page.banner_image==="banner" %}
     padding: 150px;
     background-image: url("banner.jpg");
     background-size: cover;
     background-position: bottom;
-
+    {% endif %}
     }
   </style>
 
