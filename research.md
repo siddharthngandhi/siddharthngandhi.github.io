@@ -3,7 +3,7 @@ layout: default
 banner_image:
 description: My Research
 ---
-#Exoplanets
+# Exoplanets
 
 I study Exoplanets.
 
