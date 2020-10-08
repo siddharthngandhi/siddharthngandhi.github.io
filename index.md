@@ -2,4 +2,7 @@
 layout: default
 banner_image: banner
 ---
-Hi!
+
+# Welcome!
+
+Hi! Here, you can find some info about me and my work :D
