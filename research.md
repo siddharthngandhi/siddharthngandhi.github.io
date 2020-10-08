@@ -1,6 +1,10 @@
 ---
 layout: default
 banner_image:
+title: My Research
 ---
-![Branching](banner.jpg)
+#Exoplanets
+
 I study Exoplanets.
+
+![Branching](banner.jpg)
