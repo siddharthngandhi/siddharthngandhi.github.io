@@ -1,7 +1,7 @@
 ---
 layout: default
 banner_image:
-title: My Research
+description: My Research
 ---
 #Exoplanets
 
