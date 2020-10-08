@@ -11,20 +11,22 @@
       
       h2.project-tagline{
         font-size: 40px;
-      }
+        }
       
     header.page-header{
-    {% if page.banner_image=="banner" %}
-    padding: 150px;
-    background-image: url("banner.jpg");
-    background-size: cover;
-    background-position: bottom;
-    {% endif %}
+      
+      {% if page.banner_image=="banner" %}
+      padding: 150px;
+      background-image: url("banner.jpg");
+      background-size: cover;
+      background-position: bottom;
+      {% endif %}
       
     {% if page.banner_image!="banner" %}
-    height: 100px;
-    background-color: #333333;
-    {% endif %}
+      text-align: center;
+      height: 100px;
+      background-color: #333333;
+      {% endif %}
     }
   </style>
 
