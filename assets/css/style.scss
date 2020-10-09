@@ -6,19 +6,19 @@
 .page-header{
 color:#ffff;
 background-color:#333333;
-height: 100px;
+height: 70px;
 background-image:linear-gradient(120deg,#333333, #333333);
 text-align: top;
   
   @include large {
-    padding: 0rem 0rem;
+    padding: 1rem 1rem;
   }
 
   @include medium {
-    padding: 0rem 0rem;
+    padding: 1rem 1rem;
   }
 
   @include small {
-    padding: 0rem 0rem;
+    padding: 1rem 1rem;
   }
 }
