@@ -8,4 +8,6 @@ description: My Research
 
 I study Exoplanets.
 
-![Branching](banner.jpg)
+![image](banner.png){: style="float: left"}
+
+Some text.
