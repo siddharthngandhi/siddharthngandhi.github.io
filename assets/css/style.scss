@@ -6,18 +6,18 @@
 .page-header{
 color:#ffff;
 background-color:#333333;
-height: 10px;
+height: 100px;
 background-image:linear-gradient(120deg,#333333, #333333);
   
   @include large {
-    padding: 1rem 1rem;
+    padding: 0rem 0rem;
   }
 
   @include medium {
-    padding: 1rem 1rem;
+    padding: 0rem 0rem;
   }
 
   @include small {
-    padding: 1rem 1rem;
+    padding: 0rem 0rem;
   }
 }
