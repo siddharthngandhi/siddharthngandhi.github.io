@@ -16,7 +16,7 @@
       
       {% if page.banner_image=="banner" %}
       background-image: url("banner.png");
-      background-size: 5%;
+      background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
       {% endif %}
@@ -47,7 +47,7 @@
 
     <header class="page-header" role="banner">
       <!--h1 class="project-name">{{ page.title | default: }}</h1-->
-      <!--h2 class="project-tagline">{{ page.description | default: }}</h2-->
+      <h2 class="project-tagline">{{ page.description | default: }}</h2>
     </header>
 
     <main id="content" class="main-content" role="main">
