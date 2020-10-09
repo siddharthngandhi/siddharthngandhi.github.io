@@ -8,6 +8,12 @@
         border-bottom: 10px solid #00ccff;
         }
       
+      p.ex2 {
+        padding: 10px 15px 10px 15px;
+        margin: 0px;
+        border-top: 10px solid #00ccff;
+        }
+      
       h2.project-tagline{
         font-size: 40px;
         }
@@ -48,6 +54,9 @@
       <!--h1 class="project-name">{{ page.title | default: }}</h1-->
       <h2 class="project-tagline" style="margin-top: 0.0rem">{{ page.description | default: }}</h2>
     </header>
+    {% if page.description=="My Projects" %}
+    {%- include nav_projects.html -%}
+    {% endif %}
 
     <main id="content" class="main-content" role="main">
       {{ content }}
