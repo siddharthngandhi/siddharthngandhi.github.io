@@ -64,7 +64,7 @@ _Nature, 583, 39 (2020)_
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 482, 4422 (2019)_
 
 5. A. Pinhas, N. Madhusudhan, **S. Gandhi** + 1 co-author, 
-<span style="color: #1e6bb8">H2O abundances and cloud properties in ten hot giant exoplanets</span>, 
+<span style="color: #1e6bb8">H<sub>2</sub>O abundances and cloud properties in ten hot giant exoplanets</span>, 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 482, 1485 (2019)_
 
 4. G. Hawker, N. Madhusudhan, S. Cabot, **S. Gandhi**, 
