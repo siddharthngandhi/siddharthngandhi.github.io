@@ -4,6 +4,8 @@ layout: default
 
 ## First Author Publications 
 
+{: reversed="reversed"}
+
 7. **S. Gandhi**, M. Brogi, R. Webb,
 [Seeing Above the Clouds with High Resolution Spectroscopy](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498..194G/abstract), 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 498, 194 (2020)_
@@ -33,6 +35,8 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 474, 271 (2018)_
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 
 ## Co-author Publications 
+
+{: reversed="reversed"}
 
 11. M. Ben-Yami + 4 co-authors, **S. Gandhi** +1 co-author, 
 Neutral Cr and V in the atmosphere of ultra hot jupiter WASP-121 b,
