@@ -50,10 +50,10 @@
   <body>
     <!--a id="skip-to-content" href="#content">Skip to the content.</a-->
     {%- include nav.html -%}
-    <header class="page-header" role="banner">
-      <!--h1 class="project-name">{{ page.title | default: }}</h1-->
+    <!--header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title | default: }}</h1>
       <h2 class="project-tagline" style="margin-top: 0.0rem">{{ page.description | default: }}</h2>
-    </header>
+    </header-->
     {% if page.description=="My Research" %}
     {%- include nav_projects.html -%}
     {% endif %}
