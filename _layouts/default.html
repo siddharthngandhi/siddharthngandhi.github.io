@@ -12,7 +12,7 @@
         font-size: 40px;
         }
       
-    header.page-header{
+      header.page-header{
       
       {% if page.banner_image=="banner" %}
       background-image: url("banner.png");
@@ -21,12 +21,13 @@
       background-position: center;
       {% endif %}
       
-    {% if page.banner_image!="banner" %}
-      height: 10px;
-      background-color: #333333;
-      {% endif %}
-    }
-      <\style>
+      
+      {% if page.banner_image!="banner" %}
+        height: 10px;
+        background-color: #333333;
+        {% endif %}
+      }
+    <\style>
         
 
     {% if site.google_analytics %}
@@ -47,7 +48,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <!--a id="skip-to-content" href="#content">Skip to the content.</a-->
 
     <header class="page-header" role="banner">
       <!--h1 class="project-name">{{ page.title | default: }}</h1-->
