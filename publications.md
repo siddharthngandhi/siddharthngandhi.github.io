@@ -39,46 +39,46 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 {: reversed="reversed"}
 
 11. M. Ben-Yami + 4 co-authors, **S. Gandhi** +1 co-author, 
-<span style="color: #1e6bb8"> Neutral Cr and V in the atmosphere of ultra hot jupiter WASP-121 b</span>,
+<span style="color: #1e6bb8">Neutral Cr and V in the atmosphere of ultra hot jupiter WASP-121 b</span>,
 _The Astrophysical Journal Letters, 897, L5 (2020)_
 <!--span style="text-decoration: underline">underlined text</span-->
 
 10. A. Piette, N. Madhusudhan, L. McKemmish, **S. Gandhi** + 2 co-authors, 
-Assessing Spectra and Thermal Inversions due to TiO in Hot Jupiter Atmospheres, 
+<span style="color: #1e6bb8">Assessing Spectra and Thermal Inversions due to TiO in Hot Jupiter Atmospheres</span>, 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 496, 3870 (2020)_
 
 9. S. Cabot, N. Madhusudhan, L. Welbanks, A. Piette, **S. Gandhi**, 
-Detection of neutral atomic species in the ultra-hot Jupiter WASP-121b, 
+<span style="color: #1e6bb8">Detection of neutral atomic species in the ultra-hot Jupiter WASP-121b</span>, 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 494, 363 (2020)_
 
 8. R. Webb, M. Brogi, **S. Gandhi** + 5 co-authors, 
-A weak spectral signature of water vapour in the atmosphere of HD 179949 b at high spectral resolution in the L band, 
+<span style="color: #1e6bb8">A weak spectral signature of water vapour in the atmosphere of HD 179949 b at high spectral resolution in the L band</span>, 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 494, 108 (2020)_
 
 7. D. Armstrong + 50 co-authors, **S. Gandhi** + 43 co-authors, 
-A remnant planetary core in the hot Neptunian desert, 
+<span style="color: #1e6bb8">A remnant planetary core in the hot Neptunian desert</span>, 
 _Nature, 583, 39 (2020)_
 
 6. S. Cabot, N. Madhusudhan, G. Hawker, **S. Gandhi**, 
-On the robustness of analysis techniques for molecular detections using high-resolution exoplanet spectroscopy, 
+<span style="color: #1e6bb8">On the robustness of analysis techniques for molecular detections using high-resolution exoplanet spectroscopy</span>, 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 482, 4422 (2019)_
 
 5. A. Pinhas, N. Madhusudhan, **S. Gandhi** + 1 co-author, 
-H2O abundances and cloud properties in ten hot giant exoplanets, 
+<span style="color: #1e6bb8">H2O abundances and cloud properties in ten hot giant exoplanets</span>, 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 482, 1485 (2019)_
 
 4. G. Hawker, N. Madhusudhan, S. Cabot, **S. Gandhi**, 
-Evidence for Multiple Molecular Species in the Hot Jupiter HD 209458b, 
+<span style="color: #1e6bb8">Evidence for Multiple Molecular Species in the Hot Jupiter HD 209458b</span>, 
 The Astrophysical Journal Letters, 863, L11 (2018)
 
 3. G. Chen + 4 co-authors, **S. Gandhi** + 6 co-authors, 
-The GTC exoplanet transit spectroscopy survey. IX. Detection of haze, Na, K, and Li in the super-Neptune WASP-127b, 
+<span style="color: #1e6bb8">The GTC exoplanet transit spectroscopy survey. IX. Detection of haze, Na, K, and Li in the super-Neptune WASP-127b</span>, 
 _Astronomy & Astrophysics, 616, 145 (2018)_
 
 2. K. Sheppard, A. Mandell, P. Tamburo, **S. Gandhi** + 3 co-authors, 
-Evidence for a Dayside Thermal Inversion and High Metallicity for the Hot Jupiter WASP-18b, 
+<span style="color: #1e6bb8">Evidence for a Dayside Thermal Inversion and High Metallicity for the Hot Jupiter WASP-18b</span>, 
 _The Astrophysical Journal Letters, 850, L32 (2017)_
 
 1. E. Sedaghati, H. Boffin, R. MacDonald, **S. Gandhi** + 5 co-authors, 
-Detection of titanium oxide in the atmosphere of a hot Jupiter, 
+<span style="color: #1e6bb8">Detection of titanium oxide in the atmosphere of a hot Jupiter</span>, 
 _Nature, 549, 238 (2017)_
