@@ -8,7 +8,7 @@ description: My Research
 
 I study Exoplanets.
 
-![image](banner.png){: style="float: left"; margin-right: 1em;}
+![image](banner.png){: .img-left}
 
 Some text.
 
