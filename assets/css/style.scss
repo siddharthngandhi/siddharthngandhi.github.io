@@ -10,7 +10,7 @@ height: 100px;
 background-image:linear-gradient(120deg,#333333, #333333);
   
   @include large {
-    padding: 0rem 0rem;
+    padding: 1rem 1rem;
   }
 
   @include medium {
@@ -18,6 +18,6 @@ background-image:linear-gradient(120deg,#333333, #333333);
   }
 
   @include small {
-    padding: 0rem 0rem;
+    padding: 1rem 1rem;
   }
 }
