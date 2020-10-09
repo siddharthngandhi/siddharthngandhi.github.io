@@ -39,7 +39,7 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 {: reversed="reversed"}
 
 11. M. Ben-Yami + 4 co-authors, **S. Gandhi** +1 co-author, 
-<span style="color: blue"> Neutral Cr and V in the atmosphere of ultra hot jupiter WASP-121 b</span>,
+<span style="color: $body-link-color"> Neutral Cr and V in the atmosphere of ultra hot jupiter WASP-121 b</span>,
 _The Astrophysical Journal Letters, 897, L5 (2020)_
 <!--span style="text-decoration: underline">underlined text</span-->
 
