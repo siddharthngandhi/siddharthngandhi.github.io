@@ -1,7 +1,6 @@
 ---
 layout: default
-banner_image:
-description: My Research
+description: Research
 ---
 
 # Exoplanets
