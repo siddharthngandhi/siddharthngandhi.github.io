@@ -6,19 +6,20 @@ layout: default
 
 {: reversed="reversed"}
 
-7. **S. Gandhi**, M. Brogi, R. Webb,
+
+7. **S. Gandhi**, A. Jermyn, 
+Coupled Day-Night Models of Exoplanetary Atmospheres, 
+_Monthly Notices of the Royal Astronomical Society (MNRAS), in press_
+
+6. **S. Gandhi**, M. Brogi, R. Webb,
 [Seeing Above the Clouds with High Resolution Spectroscopy](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498..194G/abstract), 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 498, 194 (2020)_
-
-6. **S. Gandhi**, A. Jermyn, 
-Coupled Day-Night Models of Exoplanetary Atmospheres, 
-_submitted to Monthly Notices of the Royal Astronomical Society (MNRAS)_
 
 5. **S. Gandhi**, M. Brogi + 10 co-authors, 
 [Molecular cross-sections for high-resolution spectroscopy of super-Earths, warm Neptunes, and hot Jupiters](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495..224G/abstract), 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 495, 224 (2020)_
 
-4. **S. Gandhi**, N. Madhusudhan, G.Hawker, A.Piette, 
+4. **S. Gandhi**, N. Madhusudhan, G. Hawker, A. Piette, 
 [HyDRA-H: Simultaneous Hybrid Retrieval of Exoplanetary Emission Spectra](https://ui.adsabs.harvard.edu/abs/2019AJ....158..228G/abstract), 
 _The Astronomical Journal, 158, 228 (2019)_
 
