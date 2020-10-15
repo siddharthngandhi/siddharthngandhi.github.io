@@ -3,7 +3,7 @@ layout: default
 banner_image: banner
 ---
 
-<img style="float: right; width:180%"; src="{{site.baseurl}}/images/gandhi.png">
+<img style="float: right; width: 180%"; src="{{site.baseurl}}/images/gandhi.png">
 
 I am a Research Fellow in the Astronomy and Astrophysics group at the University of Warwick working with Dr Matteo Brogi. My work focuses on atmospheric modelling of exoplanets and comparisons with space and ground based observations to constrain their properties, with the eventual goal of studying rocky Earth-like planets in the habitable zone which have the potential for biosignatures.
 
