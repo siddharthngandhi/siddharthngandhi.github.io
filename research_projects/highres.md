@@ -10,7 +10,7 @@ Recently, we have begun obtaining observations of warm Neptunes and super Earths
 ![image]({{site.baseurl}}/images/gj436_cloud_grid.pdf)
 
 
-## Molecular Cross Sections for Exoplanetary Atmospheres
+## High Resolution Molecular Cross Sections for Exoplanetary Atmospheres
 
 One of the most important considerations when observing exoplanet atmospheres is the opacity of the atmosphere. Each molecule present in the atmosphere has its own opacity which varies according to its abundance and with wavelength. To accurately detect and constrain molecules such as H<sub>2</sub>O in exoplanet atmospheres, we require detailed knowledge of all of the quantum mechanical transitions that can occur. My recent work has been to compile the latest generation of opacities for high resolution spectroscopy, where accuracy is critical for detection. We use these new cross sections to explore previous detections of H<sub>2</sub>O, CO, HCN and CH<sub>4</sub> in hot Jupiters and model the spectra of a super Earth, warm Neptune and hot Jupiter. This work has recently been published in the _Monthly Notices of the Royal Astronomical Society_ and can be accessed [here](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495..224G/abstract) with the opacities publicly available on the [Open Science Framework](https://osf.io/mgnw5/?view_only=5d58b814328e4600862ccfae4720acc3).
 
