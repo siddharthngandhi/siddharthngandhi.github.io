@@ -1,5 +1,6 @@
 ---
 layout: default
+description: Publications
 ---
 
 ## First Author Publications 
