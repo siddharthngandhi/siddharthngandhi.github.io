@@ -9,7 +9,7 @@ To find out the properties of the exoplanet atmospheres, such as the H<sub>2</su
 
 ![image]({{site.baseurl}}/images/histogram.pdf)
 
-## Disequilibrium Retrievals
+## Disequilibrium Retrievals of the Day Side Atmosphere
 
 One of the key questions that characterising exoplanetary atmospheres allows us to tackle is the reasons behind any differences between the observed constraints and theoretical models. By comparing the observed chemical and thermal properties of exoplanet atmospheres to equilibrium models, we can determine any disequilibrium processes that are occurring within the atmosphere. My disequilibrium framework, HyDRA, allows us to do just this. Firstly, I retrieve the atmospheric properties such as the temperature profile and chemical abundances from the observations. These retrieved properties are then used to explore disequilibrium processes which may be present through integration into my self-consistent model, [GENESIS]({{site.baseurl}}/research_projects/self_consistent.html). I have used this model to analyse the atmosphere of WASP-43b, one of the most well studied hot Jupiters with high precision HST and Spitzer observations of the day side. I have found that the atmosphere is consistent with both thermochemical and radiative equilibrium (see figure below). This work has been published in the _Monthly Notices of the Royal Astronomical Society_ and can be found [here](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474..271G/abstract).
 
