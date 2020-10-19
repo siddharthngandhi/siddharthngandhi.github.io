@@ -9,7 +9,7 @@ I am a Research Fellow in the Astronomy and Astrophysics group at the University
 
 On this website, you can find information about my <a href="{{site.baseurl}}/research.html">research</a>, <a href="{{site.baseurl}}/research.html">publications</a> and <a href="{{site.baseurl}}/research.html">about me</a>. Feel free to get in touch if you would like to know more!
 </div>
-  <div class="column" style="width: 35%"><img style="float: right; width: 200px" src="{{site.baseurl}}/images/gandhi.png">
+  <div class="column" style="width: 35%; font-size:10px"><img style="float: right; width: 200px" src="{{site.baseurl}}/images/gandhi.png">
   
   <h2>Contact</h2>
   
