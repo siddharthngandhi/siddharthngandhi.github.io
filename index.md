@@ -11,7 +11,7 @@ On this website, you can find information about my <a href="{{site.baseurl}}/res
 
 [research]({{site.baseurl}}/research.html), my [publications]({{site.baseurl}}/publications.html) and [about me]({{site.baseurl}}/aboutme.html). Feel free to get in touch if you would like to know more!
 </div>
-  <div class="column" style="width: 50%"><img style="float: right; width: 200px" src="{{site.baseurl}}/images/gandhi.png">
+  <div class="column" style="width: 50%"><img style="float: right; width: 100px" src="{{site.baseurl}}/images/gandhi.png">
   
   <h2>Contact</h2>  
   
