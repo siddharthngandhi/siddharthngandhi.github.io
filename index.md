@@ -4,6 +4,18 @@ banner_image: banner
 ---
 
 <div class="row">
+  <div class="column" style="background-color:#aaa; width:25%">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#bbb; width: 75%">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="column" style="width: 49%">
 I am a Research Fellow
 </div>
