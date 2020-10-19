@@ -24,7 +24,7 @@ banner_image: banner
   <p>Siddharth.Gandhi@warwick.ac.uk</p>
 </div>
 </div>
-
+<br>
 
 <h2>Research Interests</h2>
 
