@@ -5,7 +5,7 @@ banner_image: banner
 
 <div class="row">
   <div class="column">Hello</div>
-  <div class="column"><img style="float: right; width: 200px" src="{{site.baseurl}}/images/gandhi.png">
+  <div class="column"><img style="float: right; width: 100px" src="{{site.baseurl}}/images/gandhi.png">
 </div>
 </div>
 
