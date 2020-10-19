@@ -6,12 +6,12 @@ banner_image: banner
 # Siddharth Gandhi
 
 <div class="row">
-  <div class="column" style="width: 70%">
-I am a Research Fellow in the Astronomy and Astrophysics group at the University of Warwick working with Dr Matteo Brogi. I completed
+  <div class="column" style="width: 68%">
+<p>I am a Research Fellow in the Astronomy and Astrophysics group at the University of Warwick working with Dr Matteo Brogi. I completed my PhD in 2019 advised by Dr Nikku Madhusudhan at the Institute of Astronomy at the University of Cambridge on various aspects of atmospheric modelling.</p>
 
-On this website, you can find information about my <a href="{{site.baseurl}}/research.html">research</a>, <a href="{{site.baseurl}}/research.html">publications</a> and <a href="{{site.baseurl}}/research.html">about me</a>. Feel free to get in touch if you would like to know more!
+<p>On this website, you can find information about my <a href="{{site.baseurl}}/research.html">research</a>, <a href="{{site.baseurl}}/research.html">publications</a> and <a href="{{site.baseurl}}/research.html">about me</a>. Feel free to get in touch if you would like to know more!</p>
 </div>
-  <div class="column" style="width: 30%; font-size:15px"><img style="float: right; width: 200px" src="{{site.baseurl}}/images/gandhi.png">
+  <div class="column" style="width: 32%; font-size:15px"><img style="float: right; width: 200px" src="{{site.baseurl}}/images/gandhi.png">
   
   <h2>Contact</h2>
   
