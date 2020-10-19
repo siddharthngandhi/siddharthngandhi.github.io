@@ -28,3 +28,13 @@ banner_image: banner
   <p>Siddharth.Gandhi@warwick.ac.uk</p>
 </div>
 </div>
+
+## Selected Publications
+
+[Coupled Day-Night Models of Exoplanetary Atmospheres](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.2928G/abstract)
+
+[Seeing Above the Clouds with High Resolution Spectroscopy](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498..194G/abstract)
+
+[Molecular cross-sections for high-resolution spectroscopy of super-Earths, warm Neptunes, and hot Jupiters](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495..224G/abstract)
+
+[HyDRA-H: Simultaneous Hybrid Retrieval of Exoplanetary Emission Spectra](https://ui.adsabs.harvard.edu/abs/2019AJ....158..228G/abstract)
