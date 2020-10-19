@@ -30,7 +30,7 @@ banner_image: banner
 </div>
 <br>
 
-## Selected Publications
+<h2>Selected Publications</h2>
 
 [Coupled Day-Night Models of Exoplanetary Atmospheres](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.2928G/abstract)
 
