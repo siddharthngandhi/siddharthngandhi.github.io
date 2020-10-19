@@ -20,9 +20,9 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 498, 194 (2020)_
 [Molecular cross-sections for high-resolution spectroscopy of super-Earths, warm Neptunes, and hot Jupiters](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495..224G/abstract), 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 495, 224 (2020)_
 
-4. **S.Gandhi**, N. Madhusudhan, A. Mandell,
+<!--4. **S.Gandhi**, N. Madhusudhan, A. Mandell,
 [H- and Dissociation in Ultra-hot Jupiters: A Retrieval Case Study of WASP-18b](https://ui.adsabs.harvard.edu/abs/2020AJ....159..232G/abstract),
-_The Astronomical Journal, 159, 232 (2020)_
+_The Astronomical Journal, 159, 232 (2020)_-->
 
 4. **S. Gandhi**, N. Madhusudhan, G. Hawker, A. Piette, 
 [HyDRA-H: Simultaneous Hybrid Retrieval of Exoplanetary Emission Spectra](https://ui.adsabs.harvard.edu/abs/2019AJ....158..228G/abstract), 
