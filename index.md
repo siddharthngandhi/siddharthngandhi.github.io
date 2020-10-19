@@ -28,6 +28,7 @@ banner_image: banner
   <p>Siddharth.Gandhi@warwick.ac.uk</p>
 </div>
 </div>
+<br>
 
 ## Selected Publications
 
