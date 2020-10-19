@@ -11,8 +11,13 @@ On this website, you can find information about my <a href="{{site.baseurl}}/res
 </div>
   <div class="column" style="width: 25%"><img style="float: right; width: 100px" src="{{site.baseurl}}/images/gandhi.png">
   
-  <h2>Contact</h2>  
+  <h2>Contact</h2>
   
-   Siddharth.Gandhi@warwick.ac.uk
+  Department of Physics
+  University of Warwick
+  Coventry, UK
+  CV4 7AL
+  
+  Siddharth.Gandhi@warwick.ac.uk
 </div>
 </div>
