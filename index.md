@@ -4,10 +4,10 @@ banner_image: banner
 ---
 
 <div class="row">
-  <div class="column" style="width: 50%">
+  <div class="column" style="width: 49%">
 I am a Research Fellow
 </div>
-  <div class="column" style="width: 50%"><img style="float: right; width: 100px" src="{{site.baseurl}}/images/gandhi.png">
+  <div class="column" style="width: 49%"><img style="float: right; width: 100px" src="{{site.baseurl}}/images/gandhi.png">
   
   <h2>Contact</h2>  
   
