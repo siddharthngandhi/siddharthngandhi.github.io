@@ -3,7 +3,7 @@ layout: default
 Title: About Me
 ---
 
-### Appointments and Education
+## Appointments and Education
 
 <dl>
 <dt>Research Fellow</dt>
@@ -31,7 +31,7 @@ Title: About Me
 </dd>
 </dl>
 
-### Additional Research Experience
+## Additional Research Experience
 <dl>
 <dt>Masters Project</dt>
 <dd>Department of Applied Mathematics and Theoretical Physics, University of Cambridge    <span style="float:right;"><em> 2014-2015 </em></span> 
@@ -49,7 +49,7 @@ Title: About Me
 </dd>
 </dl>
 
-### Awards
+## Awards
 
 <dl>
 <dt>STFC PhD Studentship <span style="float:right;"><em> 2015-2019 </em></span></dt>
@@ -66,7 +66,7 @@ Title: About Me
 
 </dl>
 
-### Selected Talks/Presentations and Posters
+## Selected Talks/Presentations and Posters
 
 <dl>
 
@@ -115,7 +115,7 @@ Title: About Me
 </dd>
 </dl>
 
-### Teaching and Outreach Experience
+## Teaching Experience
 
 <dl>
 <dt> 1st Year Undergraduate supervisor for Natural Sciences (x2) <span style="float:right;"><em> 2015-2016, 2016-2017 </em></span></dt>
@@ -124,7 +124,7 @@ Title: About Me
 </dd>
 </dl>
 
-### STEM Education and Outreach
+## STEM Education and Outreach
 
 <dl>
   <dt> Cambridge Hands on Science</dt>
