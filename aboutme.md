@@ -20,14 +20,14 @@ Title: About Me
 </style>
 
 
-<pre id="t1" style="display: inline-block;">
+<pre id="t1">
 I	use	tab-size	4
 </pre>
 
-<pre id="t2" style="display: inline-block;">
+<pre id="t2" >
 I	use	tab-size	16
 </pre>
-<pre id="t2" style="display: inline-block;">
+<pre id="t2">
 Hello 	16	12
 </pre>
 
