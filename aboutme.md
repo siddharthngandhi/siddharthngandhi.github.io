@@ -5,6 +5,32 @@ Title: About Me
 
 ### Appointments and Education
 
+<style> 
+#t1 {
+  -moz-tab-size: 4; /* Firefox */
+  -o-tab-size: 4; /* Opera 10.6-12.1 */
+  tab-size: 4;
+}
+
+#t2 {
+  -moz-tab-size: 16; /* Firefox */
+  -o-tab-size: 16; /* Opera 10.6-12.1 */
+  tab-size: 16;
+}
+</style>
+
+
+<pre id="t1">
+I	use	tab-size	4
+</pre>
+
+<pre id="t2">
+I	use	tab-size	16
+</pre>
+<pre id="t2">
+Hello 	16	12
+</pre>
+
 <table style="width:100%">
   <tr>
     <th>Firstname</th>
