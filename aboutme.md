@@ -118,8 +118,8 @@ Title: About Me
 ### Teaching Experience
 
 <dl>
-<dd> 1st Year Undergraduate supervisor for Natural Sciences (x2) <span style="float:right;"><em> 2015-2016, 2016-2017 </em></span>
-  <br> <u>Subjects Supervised:</u>
+<dt> 1st Year Undergraduate supervisor for Natural Sciences (x2) <span style="float:right;"><em> 2015-2016, 2016-2017 </em></span></dt>
+  <dd> <u>Subjects Supervised:</u>
   Dynamics, Oscillating Systems, Waves and Quantum Waves, Rotational Mechanics, Special Relativity, Gravitational and Electromagnetic Fields
 </dd>
 </dl>
