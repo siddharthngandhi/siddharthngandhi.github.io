@@ -7,7 +7,9 @@ Title: About Me
 
 <dl>
 <dt>Research Fellow</dt>
-  <dd>Department of Physics, University of Warwick    <span style="float:right;"><em> 2019- </em></span> 
+  <dd>Department of Physics, University of Warwick    <span style="float:right;"><em> 2019- </em></span>
+    <br>
+    Centre for Exoplanets and Habitability, University of Warwick
   </dd>
 
 <dt>PhD in Astrophysics</dt>
