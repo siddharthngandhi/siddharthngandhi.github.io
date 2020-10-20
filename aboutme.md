@@ -52,10 +52,11 @@ Title: About Me
 ## Awards
 
 <dl>
-<dt>STFC PhD Studentship <span style="float:right;"><em> 2015-2019 </em></span></dt>
   
 <dt>St Catharine's College Prize for Distinction in Research <span style="float:right;"><em> 2019 </em></span> </dt>
 
+<dt>STFC PhD Studentship <span style="float:right;"><em> 2015-2019 </em></span></dt>
+  
 <dt>St Catharine's College Academic Prize (x4) <span style="float:right;"><em> 2012, 2013, 2014, 2015 </em></span></dt>
 
 <dt>University of Cambridge Undergraduate Research Opportunities Programme (x3) <span style="float:right;"><em> 2012, 2013, 2014 </em></span></dt>
