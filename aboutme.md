@@ -7,11 +7,13 @@ Title: About Me
 
 <dl>
 <dt>Research Fellow</dt>
-<dd>University of Warwick    <span class="italic" style="float:right;"> 2019- </span> </dd>
+  <dd>University of Warwick    <span style="float:right;"><em> 2019- </em></span> </dd>
 
 <dt>PhD in Astrophysics</dt>
 <dd>University of Cambridge    <span style="float:right;"> 2015-2019 </span> 
-  <br>Institute of Astronomy, adviser: Dr Nikku Madhsudhan   </dd>
+  <br>Institute of Astronomy 
+  <br>Adviser: Dr Nikku Madhsudhan   
+<br></dd>
 
 
 <dt>Born</dt>
