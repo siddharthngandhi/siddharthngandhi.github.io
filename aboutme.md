@@ -53,8 +53,6 @@ Title: About Me
 
 <dl>
 <dt>STFC PhD Studentship <span style="float:right;"><em> 2015-2019 </em></span></dt>
-<dd>Institute of Astronomy, University of Cambridge
-</dd>
   
 <dt>St Catharine's College Prize for Distinction in Research <span style="float:right;"><em> 2019 </em></span> </dt>
 
@@ -65,6 +63,57 @@ Title: About Me
 <dt>International Chemistry Olympiad UK Team Finalist<span style="float:right;"><em> 2011 </em></span></dt>
 
 <dt>UK Chemistry Olympiad Gold Award (x2) <span style="float:right;"><em> 2010, 2011 </em></span></dt>
+
+</dl>
+
+### Selected Talks/Presentations and Posters
+
+<dl>
+
+<dt>Conferences/Seminars </dt>
+<dd> 237th Meeting of the American Astronomical Society <span style="float:right;"><em> 2021 </em></span>
+</dd>
+
+<dd> California Institute of Technology Exoplanet Seminar <span style="float:right;"><em> 2020 </em></span>
+</dd>
+
+<dd> Cloud Academy II, Les Houches, France (postponed) <span style="float:right;"><em> 2020 </em></span>
+</dd>
+
+<dd> 235th Meeting of the American Astronomical Society, Honolulu, USA <span style="float:right;"><em> 2020 </em></span>
+</dd>
+
+<dd> University of Warwick Exoplanet Seminar, Coventry, UK <span style="float:right;"><em> 2019 </em></span>
+</dd>
+
+<dd> UK EXOM, Imperial College London, UK <span style="float:right;"><em> 2019 </em></span>
+</dd>
+
+<dd> 233rd Meeting of the American Astronomical Society, Seattle, USA <span style="float:right;"><em> 2019 </em></span>
+</dd>
+
+<dd> Radiative Signatures from the Cosmos, Paris, France <span style="float:right;"><em> 2018 </em></span>
+</dd>
+
+<dd> Kavli Institute Seminar, Cambridge, UK <span style="float:right;"><em> 2018 </em></span>
+</dd>
+
+<dd> Exo-Cam Exoplanet Seminar, Cambridge, UK <span style="float:right;"><em> 2017 </em></span>
+</dd>
+
+<dd> Undergraduate Physics Seminar, St Catharine's College, Cambridge, UK <span style="float:right;"><em> 2017 </em></span>
+</dd>
+
+<dt> Posters</dt>
+<dd> UK EXOM, Oxford, UK <span style="float:right;"><em> 2018 </em></span>
+</dd>
+
+<dd> UK EXOM, St Andrews, UK <span style="float:right;"><em> 2017 </em></span>
+</dd>
+
+<dd> UK EXOM, Exeter, UK <span style="float:right;"><em> 2016 </em></span>
+</dd>
+
 
 </dl>
 
