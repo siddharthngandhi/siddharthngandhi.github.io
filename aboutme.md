@@ -115,13 +115,39 @@ Title: About Me
 </dd>
 </dl>
 
-### Teaching Experience
+### Teaching and Outreach Experience
 
 <dl>
 <dt> 1st Year Undergraduate supervisor for Natural Sciences (x2) <span style="float:right;"><em> 2015-2016, 2016-2017 </em></span></dt>
   <dd> <u>Subjects Supervised:</u>
   Dynamics, Oscillating Systems, Waves and Quantum Waves, Rotational Mechanics, Special Relativity, Gravitational and Electromagnetic Fields
 </dd>
+</dl>
+
+### STEM Education and Outreach
+
+<dl>
+  <dt> Cambridge Hands on Science</dt>
+  <dd>
+    Science Demonstrations for Schools in Cambridgeshire, UK <span style="float:right;"><em> 2017 </em></span>
+  </dd>
+  
+  <dt> Cambridge Science Festival</dt>
+  <dd>
+    Institute of Astronomy, University of Cambridge <span style="float:right;"><em> 2016 </em></span>
+  <br> Exoplanets Demonstration
+  </dd>
+  
+  <dt> Cambridge Science Festival</dt>
+  <dd>
+    Department of Applied Mathematics and Applied Physics, University of Cambridge <span style="float:right;"><em> 2015 </em></span>
+  <br> Granular Flow Demonstration
+  </dd>
+  
+  <dt> Cambridge Hands on Science</dt>
+  <dd>
+    Science Demonstrations for Schools in Lincolnshire, UK <span style="float:right;"><em> 2015 </em></span>
+  </dd>
 </dl>
 
 <!--I completed my undergraduate in 2015 at St Catharine's College at the University of Cambridge studying Natural Sciences. I was always fascinated by theoretical physics, as well as mathematics, and how it applies to the world (or worlds!) around us. I was always fascinated by all of my subjects, from quantum mechanics to astrophysical fluid dynamics and relativity. It was especially nice to see similar principles and ideas in very different areas of physics. I then started my PhD in 2015 in exoplanetary atmospheres supervised by Dr Nikku Madhusudhan, which I completed in 2019. Studying exoplanets was ideal for me given its fundamental interdisciplinary nature. I have also been a fan of science fiction, especially those which explore the cosmos and other worlds. Perhaps it is not surprising I ended up studying exoplanets!
