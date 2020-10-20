@@ -42,17 +42,9 @@ text-align: top;
   clear: both;
 }
 
-.table{
-  border: 0px solid black;
-  border-collapse: collapse;
-}
-
-.th{
-  border: 0px solid black;
-  border-collapse: collapse;
-}
-
-.td{
-  border: 0px solid black;
-  border-collapse: collapse;
-}
+.pre {
+  display: block;
+  font-family: monospace;
+  white-space: pre;
+  margin: 1em 0;
+} 
