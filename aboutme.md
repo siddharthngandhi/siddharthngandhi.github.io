@@ -16,7 +16,7 @@ Title: About Me
 
 <dt>PhD in Astrophysics</dt>
 <dd>Institute of Astronomy, University of Cambridge    <span style="float:right;"><em> 2015-2019 </em></span> 
-  <br>Adviser: Dr Nikku Madhusudhan   
+  <br>Adviser: Nikku Madhusudhan   
   <br> Thesis Title: <b>New Avenues in Atmospheric Modelling of Exoplanets</b>
 </dd>
 
