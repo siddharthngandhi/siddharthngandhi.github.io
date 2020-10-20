@@ -13,7 +13,8 @@ Title: About Me
 <dd>University of Cambridge    <span style="float:right;"> 2015-2019 </span> 
   <br>Institute of Astronomy 
   <br>Adviser: Dr Nikku Madhsudhan   
-<br></dd>
+  <br> Thesis Title: <b>New Avenues in Atmospheric Modelling of Exoplanets</b>
+</dd>
 
 
 <dt>Born</dt>
