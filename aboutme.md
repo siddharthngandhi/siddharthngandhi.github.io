@@ -6,11 +6,14 @@ Title: About Me
 ### Appointments and Education
 
 <dl>
-<dt>University of Warwick</dt>
-<dd>Research Fellow     <span style="float:right;">
-        This text is right aligned
-    </span> </dd>
-  <dd>2019-</dd>
+<dt>Research Fellow</dt>
+<dd>University of Warwick    <span class="italic" style="float:right;"> 2019- </span> </dd>
+
+<dt>PhD in Astrophysics</dt>
+<dd>University of Cambridge    <span style="float:right;"> 2015-2019 </span> </dd>
+<dd>Institute of Astronomy, adviser: Dr Nikku Madhsudhan    <span style="float:right;"> 2019- </span> </dd>
+
+
 <dt>Born</dt>
 <dd>1952</dd>
 <dt>Birthplace</dt>
