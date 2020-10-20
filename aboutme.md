@@ -5,7 +5,7 @@ Title: About Me
 
 ### Appointments and Education
 
-<table style="width:100%" cellspacing="0" cellpadding="0">
+<table style="width:100%">
   <tr>
     <th>Firstname</th>
     <th>Lastname</th> 
