@@ -60,6 +60,8 @@ Title: About Me
 
 <dt>St Catharine's College Academic Prize (x4) <span style="float:right;"><em> 2012, 2013, 2014, 2015 </em></span></dt>
 
+<dt>University of Cambridge Undergraduate Research Opportunities Programme (x3) <span style="float:right;"><em> 2012, 2013, 2014 </em></span></dt>
+
 <dt>International Chemistry Olympiad UK Team Finalist<span style="float:right;"><em> 2011 </em></span></dt>
 
 <dt>UK Chemistry Olympiad Gold Award (x2) <span style="float:right;"><em> 2010, 2011 </em></span></dt>
