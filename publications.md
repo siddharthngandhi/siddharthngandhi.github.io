@@ -36,14 +36,11 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 474, 271 (2018)_
 [GENESIS: New Self-consistent Models of Exoplanetary Spectra](https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.2334G/abstract), 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 
-
 <!--4. **S.Gandhi**, N. Madhusudhan, A. Mandell,
 [H- and Dissociation in Ultra-hot Jupiters: A Retrieval Case Study of WASP-18b](https://ui.adsabs.harvard.edu/abs/2020AJ....159..232G/abstract),
 _The Astronomical Journal, 159, 232 (2020)_-->
 
 ## Co-author Publications 
-
-{: reversed="reversed"}
 
 11. M. Ben-Yami + 4 co-authors, **S. Gandhi** +1 co-author, 
 <span style="color: #1e6bb8">Neutral Cr and V in the atmosphere of ultra hot jupiter WASP-121 b</span>,
@@ -89,3 +86,5 @@ _The Astrophysical Journal Letters, 850, L32 (2017)_
 1. E. Sedaghati, H. Boffin, R. MacDonald, **S. Gandhi** + 5 co-authors, 
 <span style="color: #1e6bb8">Detection of titanium oxide in the atmosphere of a hot Jupiter</span>, 
 _Nature, 549, 238 (2017)_
+{: reversed="reversed"}
+
