@@ -159,7 +159,7 @@ Title: About Me
 <dl>
 <dt> Journal Reviewer</dt>
 <dd>
-  The Astronomical Journal (2 manuscripts)
+  AAS Journals (3 manuscripts)
   <br>
   Monthly Notices of the Royal Astromonical Society (1 manuscript)
 </dd>
