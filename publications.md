@@ -7,17 +7,21 @@ description: Publications
 
 {: reversed="reversed"}
 
-7. **S. Gandhi**, A. Jermyn, 
+8. **S. Gandhi**, A. Jermyn, 
 [Coupled Day-Night Models of Exoplanetary Atmospheres](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.2928G/abstract), 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), in press_
 
-6. **S. Gandhi**, M. Brogi, R. Webb,
+7. **S. Gandhi**, M. Brogi, R. Webb,
 [Seeing Above the Clouds with High Resolution Spectroscopy](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498..194G/abstract), 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 498, 194 (2020)_
 
-5. **S. Gandhi**, M. Brogi + 10 co-authors, 
+6. **S. Gandhi**, M. Brogi + 10 co-authors, 
 [Molecular cross-sections for high-resolution spectroscopy of super-Earths, warm Neptunes, and hot Jupiters](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495..224G/abstract), 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 495, 224 (2020)_
+
+5. **S.Gandhi**, N. Madhusudhan, A. Mandell,
+[H- and Dissociation in Ultra-hot Jupiters: A Retrieval Case Study of WASP-18b](https://ui.adsabs.harvard.edu/abs/2020AJ....159..232G/abstract),
+_The Astronomical Journal, 159, 232 (2020)_
 
 4. **S. Gandhi**, N. Madhusudhan, G. Hawker, A. Piette, 
 [HyDRA-H: Simultaneous Hybrid Retrieval of Exoplanetary Emission Spectra](https://ui.adsabs.harvard.edu/abs/2019AJ....158..228G/abstract), 
@@ -34,10 +38,6 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 474, 271 (2018)_
 1. **S. Gandhi**, N. Madhusudhan, 
 [GENESIS: New Self-consistent Models of Exoplanetary Spectra](https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.2334G/abstract), 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
-
-<!--4. **S.Gandhi**, N. Madhusudhan, A. Mandell,
-[H- and Dissociation in Ultra-hot Jupiters: A Retrieval Case Study of WASP-18b](https://ui.adsabs.harvard.edu/abs/2020AJ....159..232G/abstract),
-_The Astronomical Journal, 159, 232 (2020)_-->
 
 ## Co-author Publications 
 
