@@ -12,7 +12,7 @@ banner_image: banner
 <p>On this website, you can find information about my <a href="{{site.baseurl}}/research.html">research</a>, <a href="{{site.baseurl}}/research.html">publications</a> and <a href="{{site.baseurl}}/research.html">about me</a>. Feel free to get in touch if you would like to know more!</p>
 
 </div>
-  <div class="column" style="width: 32%; font-size:15px"><img style="float: right; width: 100%" src="{{site.baseurl}}/images/gandhi.png">
+  <div class="column" style="width: 32%; font-size:15px"><img style="float: right; width: 100%" src="{{site.baseurl}}/images/gandhi.jpg">
   
   <h2>Contact</h2>
   
