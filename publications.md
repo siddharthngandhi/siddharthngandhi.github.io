@@ -9,7 +9,7 @@ description: Publications
 
 8. **S. Gandhi**, A. Jermyn, 
 [Coupled Day-Night Models of Exoplanetary Atmospheres](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.2928G/abstract), 
-_Monthly Notices of the Royal Astronomical Society (MNRAS), in press_
+_Monthly Notices of the Royal Astronomical Society (MNRAS), 499, 4984 (2020)_
 
 7. **S. Gandhi**, M. Brogi, R. Webb,
 [Seeing Above the Clouds with High Resolution Spectroscopy](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498..194G/abstract), 
