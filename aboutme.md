@@ -76,6 +76,10 @@ Title: About Me
 <dl>
 
 <dt>Conferences/Seminars </dt>
+
+<dd> Cornell University Planetary Seminar <span style="float:right;"><em> 2021 </em></span>
+</dd>
+
 <dd> 237th Meeting of the American Astronomical Society <span style="float:right;"><em> 2021 </em></span>
 </dd>
 
