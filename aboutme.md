@@ -77,6 +77,9 @@ Title: About Me
 
 <dt>Conferences/Seminars </dt>
 
+<dd> STScI Spring Symposium <span style="float:right;"><em> 2021 </em></span>
+</dd>
+
 <dd> Cornell University Planetary Seminar <span style="float:right;"><em> 2021 </em></span>
 </dd>
 
