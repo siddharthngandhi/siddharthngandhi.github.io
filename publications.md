@@ -43,7 +43,7 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 
 11. P. Giacobbe, M. Brogi, **S. Gandhi** + 40 co-authors, 
 <span style="color: #1e6bb8">Five carbon- and nitrogen-bearing species in a hot giant planet’s atmosphere</span>,
-_Nature 592, 205 (2021)_
+_Nature, 592, 205 (2021)_
 
 11. M. Ben-Yami + 4 co-authors, **S. Gandhi** +1 co-author, 
 <span style="color: #1e6bb8">Neutral Cr and V in the atmosphere of ultra hot jupiter WASP-121 b</span>,
