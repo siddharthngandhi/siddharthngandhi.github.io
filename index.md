@@ -31,10 +31,12 @@ banner_image: banner
 
 <h2>Selected Publications</h2>
 
+[Five carbon- and nitrogen-bearing species in a hot giant planet’s atmosphere](https://www.nature.com/articles/s41586-021-03381-x)
+
 [Coupled Day-Night Models of Exoplanetary Atmospheres](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.2928G/abstract)
 
 [Seeing Above the Clouds with High Resolution Spectroscopy](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498..194G/abstract)
 
 [Molecular cross-sections for high-resolution spectroscopy of super-Earths, warm Neptunes, and hot Jupiters](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495..224G/abstract)
 
-[HyDRA-H: Simultaneous Hybrid Retrieval of Exoplanetary Emission Spectra](https://ui.adsabs.harvard.edu/abs/2019AJ....158..228G/abstract)
+<!--[HyDRA-H: Simultaneous Hybrid Retrieval of Exoplanetary Emission Spectra](https://ui.adsabs.harvard.edu/abs/2019AJ....158..228G/abstract)-->
