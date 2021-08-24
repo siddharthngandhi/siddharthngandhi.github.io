@@ -77,19 +77,19 @@ Title: About Me
 
 <dt>Conferences/Seminars </dt>
   
-<dd> ESO Atmo 2021 Conference <dt>(SOC)</dt> <span style="float:right;"><em> 2021 </em></span>
+<dd> ESO Atmo 2021 Conference (SOC) <span style="float:right;"><em> 2021 </em></span>
 </dd>
   
 <dd> STScI Spring Symposium <span style="float:right;"><em> 2021 </em></span>
 </dd>
 
-<dd> Cornell University Planetary Seminar <span style="float:right;"><em> 2021 </em></span>
+<dd> Cornell University Planetary Seminar (Invited talk) <span style="float:right;"><em> 2021 </em></span>
 </dd>
 
 <dd> 237th Meeting of the American Astronomical Society <span style="float:right;"><em> 2021 </em></span>
 </dd>
 
-<dd> California Institute of Technology Exoplanet Seminar <span style="float:right;"><em> 2020 </em></span>
+<dd> California Institute of Technology Exoplanet Seminar (Invited talk)<span style="float:right;"><em> 2020 </em></span>
 </dd>
 
 <dd> Cloud Academy II, Les Houches, France (postponed) <span style="float:right;"><em> 2020 </em></span>
