@@ -76,7 +76,10 @@ Title: About Me
 <dl>
 
 <dt>Conferences/Seminars </dt>
-
+  
+<dd> ESO Atmo 2021 Conference <dt>(SOC)</dt> <span style="float:right;"><em> 2021 </em></span>
+</dd>
+  
 <dd> STScI Spring Symposium <span style="float:right;"><em> 2021 </em></span>
 </dd>
 
