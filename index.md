@@ -18,7 +18,7 @@ banner_image: banner
   
   <p>Leiden Observatory<br>
   Leiden University<br>
-  Postbus 9513<br>
+  PO Box 9513<br>
   Leiden, The Netherlands<br>
   2300 RA <br>
   gandhi@mail.strw.leidenuniv.nl</p>
