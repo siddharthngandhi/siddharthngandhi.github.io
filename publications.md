@@ -41,7 +41,11 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 
 ## Co-author Publications 
 
-11. P. Giacobbe, M. Brogi, **S. Gandhi** + 40 co-authors, 
+13. J. Otegi + 11 co-authors,  **S. Gandhi** + 38 co-authors, 
+<span style="color: #1e6bb8">TESS and HARPS reveal two sub-Neptunes around TOI 1062</span>,
+_Astronomy & Astrophysics, 653, A105 (2021)_
+
+12. P. Giacobbe, M. Brogi, **S. Gandhi** + 40 co-authors, 
 <span style="color: #1e6bb8">Five carbon- and nitrogen-bearing species in a hot giant planet’s atmosphere</span>,
 _Nature, 592, 205 (2021)_
 
@@ -80,7 +84,7 @@ The Astrophysical Journal Letters, 863, L11 (2018)
 
 3. G. Chen + 4 co-authors, **S. Gandhi** + 6 co-authors, 
 <span style="color: #1e6bb8">The GTC exoplanet transit spectroscopy survey. IX. Detection of haze, Na, K, and Li in the super-Neptune WASP-127b</span>, 
-_Astronomy & Astrophysics, 616, 145 (2018)_
+_Astronomy & Astrophysics, 616, A145 (2018)_
 
 2. K. Sheppard, A. Mandell, P. Tamburo, **S. Gandhi** + 3 co-authors, 
 <span style="color: #1e6bb8">Evidence for a Dayside Thermal Inversion and High Metallicity for the Hot Jupiter WASP-18b</span>, 
