@@ -52,7 +52,6 @@ _Nature, 592, 205 (2021)_
 11. M. Ben-Yami + 4 co-authors, **S. Gandhi** +1 co-author, 
 <span style="color: #1e6bb8">Neutral Cr and V in the atmosphere of ultra hot jupiter WASP-121 b</span>,
 _The Astrophysical Journal Letters, 897, L5 (2020)_
-<!--span style="text-decoration: underline">underlined text</span-->
 
 10. A. Piette, N. Madhusudhan, L. McKemmish, **S. Gandhi** + 2 co-authors, 
 <span style="color: #1e6bb8">Assessing Spectra and Thermal Inversions due to TiO in Hot Jupiter Atmospheres</span>, 
