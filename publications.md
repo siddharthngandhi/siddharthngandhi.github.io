@@ -41,6 +41,10 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 
 ## Co-author Publications 
 
+14. M. Line, M. Brogi, J. Bean,  **S. Gandhi** + 12 co-authors, 
+<span style="color: #1e6bb8">A solar C/O and sub-solar metallicity in a hot Jupiter atmosphere</span>,
+_Nature, 598, 580 (2021)_
+
 13. J. Otegi + 11 co-authors,  **S. Gandhi** + 38 co-authors, 
 <span style="color: #1e6bb8">TESS and HARPS reveal two sub-Neptunes around TOI 1062</span>,
 _Astronomy & Astrophysics, 653, A105 (2021)_
