@@ -41,7 +41,7 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 
 ## Co-author Publications 
 
-16. J. V. Seidel, + 4 co-authors, **S. Gandhi** + 5 co-authors,
+16. J. Seidel, + 4 co-authors, **S. Gandhi** + 5 co-authors,
 <span style="color: #1e6bb8">The hot Neptune WASP-166 b with ESPRESSO II: confirmation of atmospheric sodium</span>,
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 513, L15 (2022)_
 
