@@ -41,6 +41,10 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 
 ## Co-author Publications 
 
+16. J. V. Seidel, + 4 co-authors, **S. Gandhi** + 5 co-authors,
+17. <span style="color: #1e6bb8">The hot Neptune WASP-166 b with ESPRESSO II: confirmation of atmospheric sodium</span>,
+_Monthly Notices of the Royal Astronomical Society (MNRAS), 513, l15 (2022)_
+
 15. E. Ahrer, P. Wheatley, J. Kirk,  **S. Gandhi** + 2 co-authors, 
 <span style="color: #1e6bb8">LRG-BEASTS: Sodium absorption and Rayleigh scattering in the atmosphere of WASP-94A b using NTT/EFOSC2</span>,
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 510, 4857 (2022)_
