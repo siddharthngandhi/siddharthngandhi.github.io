@@ -21,7 +21,7 @@ banner_image: banner
   PO Box 9513<br>
   Leiden, The Netherlands<br>
   2300 RA <br>
-  gandhi@mail.strw.leidenuniv.nl</p>
+  gandhi@strw.leidenuniv.nl</p>
 </div>
 </div>
 <br>
