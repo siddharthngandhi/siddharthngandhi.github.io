@@ -7,6 +7,10 @@ description: Publications
 
 {: reversed="reversed"}
 
+8. **S. Gandhi**, A. Kesseli, I. Snellen, M. Brogi + 5 co-authors, 
+[ Spatially-resolving the terminator: Variation of Fe, temperature and winds in WASP-76 b across planetary limbs and orbital phase](https://ui.adsabs.harvard.edu/abs/2022arXiv220611268G/abstract), 
+_Monthly Notices of the Royal Astronomical Society (MNRAS)_
+
 8. **S. Gandhi**, A. Jermyn, 
 [Coupled Day-Night Models of Exoplanetary Atmospheres](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.2928G/abstract), 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 499, 4984 (2020)_
@@ -40,6 +44,10 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 474, 271 (2018)_
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 
 ## Co-author Publications 
+
+17. R. Webb, **S. Gandhi**, M. Brogi + 4 co-authors,
+<span style="color: #1e6bb8">Water observed in the atmosphere of τ Boötis Ab with CARMENES/CAHA</span>,
+_Monthly Notices of the Royal Astronomical Society (MNRAS)_
 
 16. J. Seidel, + 4 co-authors, **S. Gandhi** + 5 co-authors,
 <span style="color: #1e6bb8">The hot Neptune WASP-166 b with ESPRESSO II: confirmation of atmospheric sodium</span>,
