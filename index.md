@@ -32,9 +32,9 @@ banner_image: banner
 
 <h2>Selected Publications</h2>
 
-[Five carbon- and nitrogen-bearing species in a hot giant planet’s atmosphere](https://www.nature.com/articles/s41586-021-03381-x)
+[Spatially-resolving the terminator: Variation of Fe, temperature and winds in WASP-76 b across planetary limbs and orbital phas](https://ui.adsabs.harvard.edu/abs/2022arXiv220611268G/abstract)
 
-[Coupled Day-Night Models of Exoplanetary Atmospheres](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.2928G/abstract)
+[Five carbon- and nitrogen-bearing species in a hot giant planet’s atmosphere](https://www.nature.com/articles/s41586-021-03381-x)
 
 [Seeing Above the Clouds with High Resolution Spectroscopy](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498..194G/abstract)
 
