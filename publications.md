@@ -47,7 +47,7 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 
 17. R. Webb, **S. Gandhi**, M. Brogi + 4 co-authors,
 <span style="color: #1e6bb8">Water observed in the atmosphere of τ Boötis Ab with CARMENES/CAHA</span>,
-_Monthly Notices of the Royal Astronomical Society (MNRAS)_
+_Monthly Notices of the Royal Astronomical Society (MNRAS), 514, 4160 (2022)_
 
 16. J. Seidel, + 4 co-authors, **S. Gandhi** + 5 co-authors,
 <span style="color: #1e6bb8">The hot Neptune WASP-166 b with ESPRESSO II: confirmation of atmospheric sodium</span>,
