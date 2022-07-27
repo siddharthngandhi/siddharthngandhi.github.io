@@ -8,11 +8,11 @@ description: Publications
 {: reversed="reversed"}
 
 8. **S. Gandhi**, A. Kesseli, I. Snellen, M. Brogi + 5 co-authors, 
-[ Spatially-resolving the terminator: Variation of Fe, temperature and winds in WASP-76 b across planetary limbs and orbital phase](https://ui.adsabs.harvard.edu/abs/2022arXiv220611268G/abstract), 
-_Monthly Notices of the Royal Astronomical Society (MNRAS)_
+[ Spatially-resolving the terminator: Variation of Fe, temperature and winds in WASP-76 b across planetary limbs and orbital phase](https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..749G/abstract), 
+_Monthly Notices of the Royal Astronomical Society (MNRAS), 515, 749 (2022)_
 
 8. **S. Gandhi**, A. Jermyn, 
-[Coupled Day-Night Models of Exoplanetary Atmospheres](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.2928G/abstract), 
+[Coupled Day-Night Models of Exoplanetary Atmospheres](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.4984G/abstract), 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 499, 4984 (2020)_
 
 7. **S. Gandhi**, M. Brogi, R. Webb,
