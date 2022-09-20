@@ -190,7 +190,7 @@ Title: About Me
   </dd>
 </dl>
 
-##Computing Experience in C++ and Python
+## Computing Experience in C++ and Python
 
 <dl>
 <dd>
