@@ -10,12 +10,21 @@ Title: About Me
   <dd>Leiden Observatory, Leiden University    <span style="float:right;"><em> 2021- </em></span>
   </dd>
   
-<dt>Research Fellow</dt>
-  <dd>Centre for Exoplanets and Habitability, University of Warwick    <span style="float:right;"><em> 2020- </em></span>
+ 
+<dt>Honorary Research Fellow</dt>
+  <dd>Centre for Exoplanets and Habitability, University of Warwick    <span style="float:right;"><em> 2021- </em></span>
+  </dd>
+  
+<dt>Honorary Research Fellow</dt>
+  <dd>Department of Physics, University of Warwick    <span style="float:right;"><em> 2019- </em></span>
   </dd>
   
 <dt>Research Fellow</dt>
-  <dd>Department of Physics, University of Warwick    <span style="float:right;"><em> 2019- </em></span>
+  <dd>Centre for Exoplanets and Habitability, University of Warwick    <span style="float:right;"><em> 2019-2021 </em></span>
+  </dd>
+  
+<dt>Research Fellow</dt>
+  <dd>Department of Physics, University of Warwick    <span style="float:right;"><em> 2019-2021 </em></span>
   </dd>
 
 <dt>PhD in Astrophysics</dt>
@@ -83,7 +92,10 @@ Title: About Me
 
 <dt>Conferences/Seminars </dt>
   
-  <dd> ESO Atmo 2021 Conference <b>(SOC)</b> <span style="float:right;"><em> 2021 </em></span>
+<dd> High-resolution spectroscopy for Exoplanet Atmospheres & Biomarkers, Potsdam, Germany <span style="float:right;"><em> 2022 </em></span>
+</dd>  
+
+<dd> ESO Atmo 2021 Conference <b>(SOC)</b> <span style="float:right;"><em> 2021 </em></span>
 </dd>
   
 <dd> STScI Spring Symposium <span style="float:right;"><em> 2021 </em></span>
@@ -107,7 +119,7 @@ Title: About Me
 <dd> University of Warwick Exoplanet Seminar, Coventry, UK <span style="float:right;"><em> 2019 </em></span>
 </dd>
 
-<dd> UK EXOM, Imperial College London, UK <span style="float:right;"><em> 2019 </em></span>
+<dd> UK Exoplnaet Community Meeting, Imperial College London, UK <span style="float:right;"><em> 2019 </em></span>
 </dd>
 
 <dd> 233rd Meeting of the American Astronomical Society, Seattle, USA <span style="float:right;"><em> 2019 </em></span>
