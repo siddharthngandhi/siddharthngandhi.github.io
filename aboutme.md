@@ -55,6 +55,11 @@ Title: About Me
   <br>Adviser: N. Vriend
 </dd>
   
+<dt>Batchelors Research Project</dt>
+<dd>Cavendish Laboratory, University of Cambridge    <span style="float:right;"><em> 2013-2014 </em></span> 
+  <br>Adviser: M. Atature
+</dd>
+  
 <dt>Summer Research Project</dt>
 <dd>BP Institute, University of Cambridge    <span style="float:right;"><em> 2013-2014 </em></span> 
   <br>Adviser: J. Neufeld
@@ -183,6 +188,24 @@ Title: About Me
   <dd>
     Science Demonstrations for Schools in Lincolnshire, UK <span style="float:right;"><em> 2015 </em></span>
   </dd>
+</dl>
+
+##Computing Experience in C++ and Python
+
+<dl>
+<dd>
+  Statistical Techniques on large datasets
+  <br>
+  Data analysis of ground and space telescope data
+  <br>
+  Computing optical and infrared opacities from spectral line lists
+  <br>
+  Numerical Radiative Transfer and atmospheric structure modelling
+  <br>
+  High Performance Computing
+  <br>
+  GPU Computation
+</dd>
 </dl>
 
 <!--## Peer Review
