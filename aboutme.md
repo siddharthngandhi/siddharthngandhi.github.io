@@ -57,7 +57,7 @@ Title: About Me
   
 <dt>Bachelors Research Review Project</dt>
 <dd>Cavendish Laboratory, University of Cambridge    <span style="float:right;"><em> 2013-2014 </em></span> 
-  <br>Adviser: M. Atat&uuml;ure
+  <br>Adviser: M. Atat&uuml;re
 </dd>
   
 <dt>Summer Research Project</dt>
