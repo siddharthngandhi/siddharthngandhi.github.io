@@ -55,7 +55,7 @@ Title: About Me
   <br>Adviser: N. Vriend
 </dd>
   
-<dt>Bachelors Research Project</dt>
+<dt>Bachelors Research Review Project</dt>
 <dd>Cavendish Laboratory, University of Cambridge    <span style="float:right;"><em> 2013-2014 </em></span> 
   <br>Adviser: M. Atature
 </dd>
