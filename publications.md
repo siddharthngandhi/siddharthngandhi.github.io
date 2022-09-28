@@ -45,9 +45,17 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 
 ## Co-author Publications 
 
-18. I. Carleo, + 6 co-authors, **S. Gandhi** + 23 co-authors,
+20. M. Maimone, + 6 co-authors, **S. Gandhi** + 1 co-author,
+<span style="color: #1e6bb8"> Detecting H<sub>2</sub>O with CRIRES+: the case of WASP-20b</span>,
+_Astronomy & Astrophysics, (2022)_
+
+19. I. Carleo, + 6 co-authors, **S. Gandhi** + 23 co-authors,
 <span style="color: #1e6bb8">The GAPS Programme at TNG XXXIX. Multiple Molecular Species in the Atmosphere of the Warm Giant Planet WASP-80 b Unveiled at High Resolution with GIANO-B</span>,
 _The Astronomical Journal, 164, 101 (2022)_
+
+18. G. Guilluy, + 6 co-authors, **S. Gandhi** + 27 co-authors,
+<span style="color: #1e6bb8"> The GAPS Programme at TNG. XXXVIII. Five molecules in the atmosphere of the warm giant planet WASP-69b detected at high spectral resolution</span>,
+_Astronomy & Astrophysics, 665, A104 (2022)_
 
 17. R. Webb, **S. Gandhi**, M. Brogi + 4 co-authors,
 <span style="color: #1e6bb8">Water observed in the atmosphere of τ Boötis Ab with CARMENES/CAHA</span>,
