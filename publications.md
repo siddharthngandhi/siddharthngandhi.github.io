@@ -45,9 +45,13 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 
 ## Co-author Publications 
 
+21. M. Brogi, V. Emeka-Okafor, M. Line, **S. Gandhi** + 18 co-authors,
+<span style="color: #1e6bb8"> The Roasting Marshmallows Program with IGRINS on Gemini South I: Composition and Climate of the Ultra Hot Jupiter WASP-18 b</span>,
+_submitted to AAS journals, (2022)_
+
 20. M. Maimone, + 6 co-authors, **S. Gandhi** + 1 co-author,
 <span style="color: #1e6bb8"> Detecting H<sub>2</sub>O with CRIRES+: the case of WASP-20b</span>,
-_Astronomy & Astrophysics, (2022)_
+_Astronomy & Astrophysics, 667, A106 (2022)_
 
 19. I. Carleo, + 6 co-authors, **S. Gandhi** + 23 co-authors,
 <span style="color: #1e6bb8">The GAPS Programme at TNG XXXIX. Multiple Molecular Species in the Atmosphere of the Warm Giant Planet WASP-80 b Unveiled at High Resolution with GIANO-B</span>,
