@@ -97,8 +97,14 @@ Title: About Me
 
 <dt>Conferences/Seminars </dt>
 
-<dd> Spectroscopy of Exoplanets at High Resolution, High Wycombe, UK <b>(Invited talk)</b><span style="float:right;"><em> 2023 </em></span>
+<dd> Spectroscopy of Exoplanets at High Resolution, Royal Society Meeting, UK <b>(Invited talk)</b><span style="float:right;"><em> 2023 </em></span>
 </dd>  
+  
+<dd> Cloud Zwei Con, Ringberg Castle, Germany <b>(Invited talk)</b><span style="float:right;"><em> 2023 </em></span>
+</dd>  
+  
+<dd> 241st Meeting of the American Astronomical Society <span style="float:right;"><em> 2021 </em></span>
+</dd>
   
 <dd> High-resolution spectroscopy for Exoplanet Atmospheres & Biomarkers, Potsdam, Germany <span style="float:right;"><em> 2022 </em></span>
 </dd>  
