@@ -109,7 +109,7 @@ Title: About Me
 <dd> 241st Meeting of the American Astronomical Society, Seattle, USA <span style="float:right;"><em> 2023 </em></span>
 </dd>
   
-<dd> High-resolution spectroscopy for Exoplanet Atmospheres & Biomarkers, Potsdam, Germany <span style="float:right;"><em> 2022 </em></span>
+<dd> High-resolution spectroscopy for Exoplanet Atmospheres, Potsdam, Germany <span style="float:right;"><em> 2022 </em></span>
 </dd>  
 
 <dd> ESO Atmo 2021 Conference <b>(SOC)</b> <span style="float:right;"><em> 2021 </em></span>
