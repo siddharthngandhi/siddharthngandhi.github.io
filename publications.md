@@ -45,9 +45,21 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 
 ## Co-author Publications 
 
+24. E. Ahrer, P. Wheatley, **S. Gandhi** + 3 co-authors,
+<span style="color: #1e6bb8"> LRG-BEASTS: Clouds in the transmission spectrum of HATS-46 b</span>,
+_Monthly Notices of the Royal Astronomical Society (MNRAS), 521, 5636 (2023)_
+
+23. M. Lafarga, M. Brogi, **S. Gandhi** + 8 co-authors,
+<span style="color: #1e6bb8"> The hot Neptune WASP-166~b with ESPRESSO III: A tentative blue-shifted water signal constrains the presence of clouds</span>,
+_Monthly Notices of the Royal Astronomical Society (MNRAS), 521, 1233 (2023)_
+
+22. S. Constantinou, N. Madhusudhan, **S. Gandhi**,
+<span style="color: #1e6bb8"> Early Insights for Atmospheric Retrievals of Exoplanets using JWST Transit Spectroscopy</span>,
+_The Astrophysical Journal Letters, 943, L10 (2023)_
+
 21. M. Brogi, V. Emeka-Okafor, M. Line, **S. Gandhi** + 18 co-authors,
 <span style="color: #1e6bb8"> The Roasting Marshmallows Program with IGRINS on Gemini South I: Composition and Climate of the Ultra Hot Jupiter WASP-18 b</span>,
-_submitted to AAS journals, (2022)_
+_The Astronomical Journal, 165, 91 (2023)_
 
 20. M. Maimone, + 6 co-authors, **S. Gandhi** + 1 co-author,
 <span style="color: #1e6bb8"> Detecting H<sub>2</sub>O with CRIRES+: the case of WASP-20b</span>,
