@@ -7,11 +7,11 @@ description: Publications
 
 {: reversed="reversed"}
 
-9. **S. Gandhi**, A. Kesseli, Y. Zhang, A. Louca, I. Snellen + 7 co-authors, 
+10. **S. Gandhi**, A. Kesseli, Y. Zhang, A. Louca, I. Snellen + 7 co-authors, 
 [Retrieval Survey of Metals in Six Ultrahot Jupiters: Trends in Chemistry, Rain-out, Ionization, and Atmospheric Dynamics](https://ui.adsabs.harvard.edu/abs/2023AJ....165..242G/abstract), 
 _The Astronomical Journal, 165, 242 (2023)_
 
-8. **S. Gandhi**, A. Kesseli, I. Snellen, M. Brogi + 5 co-authors, 
+9. **S. Gandhi**, A. Kesseli, I. Snellen, M. Brogi + 5 co-authors, 
 [Spatially-resolving the terminator: Variation of Fe, temperature and winds in WASP-76 b across planetary limbs and orbital phase](https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..749G/abstract), 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 515, 749 (2022)_
 
