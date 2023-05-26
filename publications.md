@@ -7,8 +7,12 @@ description: Publications
 
 {: reversed="reversed"}
 
+9. **S. Gandhi**, A. Kesseli, Y. Zhang, A. Louca, I. Snellen + 7 co-authors, 
+[Retrieval Survey of Metals in Six Ultrahot Jupiters: Trends in Chemistry, Rain-out, Ionization, and Atmospheric Dynamics](https://ui.adsabs.harvard.edu/abs/2023AJ....165..242G/abstract), 
+_The Astronomical Journal, 165, 242 (2023)_
+
 8. **S. Gandhi**, A. Kesseli, I. Snellen, M. Brogi + 5 co-authors, 
-[ Spatially-resolving the terminator: Variation of Fe, temperature and winds in WASP-76 b across planetary limbs and orbital phase](https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..749G/abstract), 
+[Spatially-resolving the terminator: Variation of Fe, temperature and winds in WASP-76 b across planetary limbs and orbital phase](https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..749G/abstract), 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 515, 749 (2022)_
 
 8. **S. Gandhi**, A. Jermyn, 
@@ -46,7 +50,7 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 ## Co-author Publications 
 
 24. E. Ahrer, P. Wheatley, **S. Gandhi** + 3 co-authors,
-<span style="color: #1e6bb8"> LRG-BEASTS: Clouds in the transmission spectrum of HATS-46 b</span>,
+<span style="color: #1e6bb8"> LRG-BEASTS: Evidence for clouds in the transmission spectrum of HATS-46 b</span>,
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 521, 5636 (2023)_
 
 23. M. Lafarga, M. Brogi, **S. Gandhi** + 8 co-authors,
