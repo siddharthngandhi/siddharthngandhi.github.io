@@ -18,12 +18,12 @@ banner_image: banner
   
   <h2>Contact</h2>
   
-  <p>Department of Physics<br>
+  <!--<p>Department of Physics<br>
   University of Warwick<br>
   GIbbet Hill Road<br>
   Coventry, United Kingdom<br>
   CV4 7AL<br>
-  Siddharth.Gandhi@warwick.ac.uk</p>
+  Siddharth.Gandhi@warwick.ac.uk</p> -->
 </div>
 
 </div>
