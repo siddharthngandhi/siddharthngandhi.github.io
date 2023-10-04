@@ -6,17 +6,25 @@ Title: About Me
 ## Appointments and Education
 
 <dl>
+  
+<dt>Assistant Professor</dt>
+  <dd>Centre for Exoplanets and Habitability, University of Warwick    <span style="float:right;"><em> 2023- </em></span>
+  </dd>
+  
+<dt>Assistant Professor</dt>
+  <dd>Department of Physics, University of Warwick    <span style="float:right;"><em> 2023- </em></span>
+  </dd>
+  
 <dt>Oort Fellow</dt>
-  <dd>Leiden Observatory, Leiden University    <span style="float:right;"><em> 2021- </em></span>
-  </dd>
-  
- 
-<dt>Honorary Research Fellow</dt>
-  <dd>Centre for Exoplanets and Habitability, University of Warwick    <span style="float:right;"><em> 2021- </em></span>
+  <dd>Leiden Observatory, Leiden University    <span style="float:right;"><em> 2021-2023 </em></span>
   </dd>
   
 <dt>Honorary Research Fellow</dt>
-  <dd>Department of Physics, University of Warwick    <span style="float:right;"><em> 2021- </em></span>
+  <dd>Centre for Exoplanets and Habitability, University of Warwick    <span style="float:right;"><em> 2021-2023 </em></span>
+  </dd>
+  
+<dt>Honorary Research Fellow</dt>
+  <dd>Department of Physics, University of Warwick    <span style="float:right;"><em> 2021-2023 </em></span>
   </dd>
   
 <dt>Research Fellow</dt>
