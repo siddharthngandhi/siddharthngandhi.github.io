@@ -43,13 +43,13 @@ On the other hand, ground-based facilities typically are much larger and can the
 <div class="row">
   <div class="column" style="width: 50%">
   <img style="float: right; width: 100%" src="{{site.baseurl}}/images/birkby2018.png">
-    <p>JWST et al., Nature, 614, 7949 (2022)</p>
+    <p>Birkby, Handbook of Exoplanets (2018)</p>
     
   </div>
 
   <div class="column" style="width: 50%">
   <img style="float: right; width: 100%" src="{{site.baseurl}}/images/Perseids_over_the_VLT_pillars.jpg">
-     <p>credit: nasa.gov</p>
+     <p>credit: esa.int</p>
     
   </div>
 
