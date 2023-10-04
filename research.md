@@ -21,11 +21,11 @@ We can observe exoplanet atmospheres from both space, through facilities such as
 
 <div class="row">
   <div class="column" style="width: 50%">
-![image]({{site.baseurl}}/images/gj436_cloud_grid.jpg)
+  <img style="float: right; width: 100%" src="{{site.baseurl}}/images/gandhi.jpg">
   </div>
 
   <div class="column" style="width: 50%">
-![image]({{site.baseurl}}/images/gj436_cloud_grid.jpg)
+  <img style="float: right; width: 100%" src="{{site.baseurl}}/images/gandhi.jpg">
   </div>
 
 </div>
