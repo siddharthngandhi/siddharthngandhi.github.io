@@ -23,12 +23,13 @@ banner_image: banner
   CV4 7AL<br>
   Siddharth.Gandhi@warwick.ac.uk</p>
 </div>
-</div>
-<br>
 
 <h2>Research Interests</h2>
 
 <p>My overall research goal has been to understand the diversity of physical and chemical properties of exoplanet atmospheres. My work has encompassed a wide range of theoretical developments, from self-consistent models to atmospheric retrievals across a wide range of observations from space based low resolution to ground based high resolution spectroscopy. This has spanned a variety of planet types from cool low mass super-Earths to hot Jupiters, with the eventual goal of studying rocky Earth-like planets in the habitable zone which have the potential for biosignatures. </p>
+
+</div>
+<br>
 
 <h2>Selected Publications</h2>
 
