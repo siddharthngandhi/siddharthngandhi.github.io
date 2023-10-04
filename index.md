@@ -9,6 +9,8 @@ banner_image: banner
 
 <p>I am assistant professor at the Department of Physics at the University of Warwick, working on the characterisation of exoplanetary atmospheres. My research aims to answer some of the key questions in exoplanet science, such as how do planets form, how diverse are the processes in exoplanets, and how unique is our Solar System and our planet?
 
+<p>I am assistant professor at the Department of Physics at the University of Warwick, working on the characterisation of exoplanetary atmospheres. My research aims to answer some of the key questions in exoplanet science, such as how do planets form, how diverse are the processes in exoplanets, and how unique is our Solar System and our planet?
+
 <p>On this website, you can find information about my <a href="{{site.baseurl}}/research.html">research</a>, <a href="{{site.baseurl}}/publications.html">publications</a> and <a href="{{site.baseurl}}/aboutme.html">about me</a>. Feel free to get in touch if you would like to know more!</p>
 
 </div>
