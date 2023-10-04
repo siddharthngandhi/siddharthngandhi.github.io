@@ -21,13 +21,13 @@ We can observe exoplanet atmospheres from both space, through facilities such as
 
 <div class="row">
   <div class="column" style="width: 50%">
-  <img style="float: right; width: 100%" src="{{site.baseurl}}/images/gandhi.jpg">
+  <img style="float: right; width: 100%" src="{{site.baseurl}}/images/jwst2022.png">
     <p>JWST et al., Nature, 614, 7949 (2022)</p>
     
   </div>
 
   <div class="column" style="width: 50%">
-  <img style="float: right; width: 100%" src="{{site.baseurl}}/images/gandhi.jpg">
+  <img style="float: right; width: 100%" src="{{site.baseurl}}/images/jwst.jpg">
      <p>credit: nasa.gov</p>
     
   </div>
