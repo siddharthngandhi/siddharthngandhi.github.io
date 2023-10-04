@@ -4,7 +4,7 @@ banner_image: banner
 ---
 
 <div class="row">
-  <div class="column" style="width: 68%">
+  <div class="column" style="width: 67%">
     <h1>Siddharth Gandhi</h1>
 
 <p>I am assistant professor at the Department of Physics at the University of Warwick, working on the characterisation of exoplanetary atmospheres. My research aims to answer some of the key questions in exoplanet science, such as how do planets form, how diverse are the processes in exoplanets, and how unique is our Solar System and our planet?
@@ -22,6 +22,8 @@ banner_image: banner
   Coventry, United Kingdom<br>
   CV4 7AL<br>
   Siddharth.Gandhi@warwick.ac.uk</p>
+</div>
+
 </div>
 <br>
 
