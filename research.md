@@ -29,5 +29,6 @@ We can observe exoplanet atmospheres from both space, through facilities such as
   </div>
 
 </div>
+<br>
 
 On the other hand, ground-based facilities typically are much larger and can therefore observe at higher spectral resolutions. The spectral resolution can reach R~100,000 or even more, where we are able to observe the planetary spectrum in such detail that we can track its Doppler shift as it rotates around its star. This allows for high-precision constraints on numerous chemical spe cies in the atmosphere, which are clearly and unambiguously detected.
