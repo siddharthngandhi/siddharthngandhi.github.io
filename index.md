@@ -30,7 +30,7 @@ banner_image: banner
 
 <h2>Research Interests</h2>
 
-<p>My overall research goal has been to understand the diversity of physical and chemical properties of exoplanet atmospheres. My work has encompassed a wide range of theoretical developments, from self-consistent models to atmospheric retrievals across a wide range of observations from space based low resolution to ground based high resolution spectroscopy. This has spanned a variety of planet types from cool low mass super-Earths to hot Jupiters, with the eventual goal of studying rocky Earth-like planets in the habitable zone which have the potential for biosignatures. </p>
+<p>My overall research goal has been to understand the diversity of physical and chemical properties of exoplanet atmospheres. My work encompasses a range of observations from both the ground and from space, and I use these observations to characterise a range of exoplanets, from very hot close-in transiting planets to directly imaged exoplanets at large distances from their host star. This has spanned a variety of planet types from cool low mass super-Earths to hot Jupiters, with the eventual goal of studying rocky Earth-like planets in the habitable zone which have the potential for biosignatures. </p>
 
 <h2>Recent Publications</h2>
 
