@@ -3,7 +3,7 @@ layout: default
 description: Research
 ---
 
-![image]({{site.baseurl}}/images/hydra2d_schematic.pdf)
+![image]({{site.baseurl}}/images/hydra2d_schematic.png)
 
 ## Transmission and Emission Spectroscopy
 
