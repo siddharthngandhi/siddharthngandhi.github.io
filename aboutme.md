@@ -48,6 +48,7 @@ Title: About Me
 </dd>
 </dl>
 
+<!--
 ## Additional Research Experience
 <dl>
 <dt>Masters Project</dt>
@@ -70,6 +71,40 @@ Title: About Me
   <br>Adviser: S. Morris
 </dd>
 </dl>
+-->
+
+## Selected Talks
+
+<dl>
+
+<dt>Conferences/Seminars </dt>
+
+<dd> Max Planck Institute for Astronomy Exoplanet Seminar, Heidelberg, Germany <span style="float:right;"><em> 2023 </em></span>
+</dd>
+  
+<dd> Spectroscopy of Exoplanets at High Resolution, Royal Society Meeting, UK <span style="float:right;"><em> 2023 </em></span>
+</dd>  
+  
+<dd> Cloud Zwei Con, Ringberg Castle, Germany <span style="float:right;"><em> 2023 </em></span>
+</dd>  
+  
+<dd> 241st Meeting of the American Astronomical Society, Seattle, USA <span style="float:right;"><em> 2023 </em></span>
+</dd>
+  
+<dd> High-resolution spectroscopy for Exoplanet Atmospheres, Potsdam, Germany <span style="float:right;"><em> 2022 </em></span>
+</dd>  
+
+<dd> ESO Atmo 2021 Conference <b>(SOC)</b> <span style="float:right;"><em> 2021 </em></span>
+</dd>
+  
+<dd> STScI Spring Symposium <span style="float:right;"><em> 2021 </em></span>
+</dd>
+
+  <dd> Cornell University Planetary Seminar <span style="float:right;"><em> 2021 </em></span>
+</dd>
+
+<dd> 237th Meeting of the American Astronomical Society <span style="float:right;"><em> 2021 </em></span>
+</dd>
 
 ## Awards
 
@@ -89,91 +124,6 @@ Title: About Me
 
 <dt>UK Chemistry Olympiad Gold Award (x2) <span style="float:right;"><em> 2010, 2011 </em></span></dt>
 
-</dl>
-
-## Selected Talks/Presentations and Posters
-
-<dl>
-
-<dt>Conferences/Seminars </dt>
-
-<dd> Max Planck Institute for Astronomy Exoplanet Seminar, Heidelberg, Germany <b>(Invited)</b><span style="float:right;"><em> 2023 </em></span>
-</dd>
-  
-<dd> Spectroscopy of Exoplanets at High Resolution, Royal Society Meeting, UK <b>(Invited)</b><span style="float:right;"><em> 2023 </em></span>
-</dd>  
-  
-<dd> Cloud Zwei Con, Ringberg Castle, Germany <b>(Invited)</b><span style="float:right;"><em> 2023 </em></span>
-</dd>  
-  
-<dd> 241st Meeting of the American Astronomical Society, Seattle, USA <span style="float:right;"><em> 2023 </em></span>
-</dd>
-  
-<dd> High-resolution spectroscopy for Exoplanet Atmospheres, Potsdam, Germany <span style="float:right;"><em> 2022 </em></span>
-</dd>  
-
-<dd> ESO Atmo 2021 Conference <b>(SOC)</b> <span style="float:right;"><em> 2021 </em></span>
-</dd>
-  
-<dd> STScI Spring Symposium <span style="float:right;"><em> 2021 </em></span>
-</dd>
-
-  <dd> Cornell University Planetary Seminar <b>(Invited)</b> <span style="float:right;"><em> 2021 </em></span>
-</dd>
-
-<dd> 237th Meeting of the American Astronomical Society <span style="float:right;"><em> 2021 </em></span>
-</dd>
-
-  <dd> California Institute of Technology Exoplanet Seminar <b>(Invited)</b><span style="float:right;"><em> 2020 </em></span>
-</dd>
-
-<dd> Cloud Academy II, Les Houches, France (postponed) <span style="float:right;"><em> 2020 </em></span>
-</dd>
-
-<dd> 235th Meeting of the American Astronomical Society, Honolulu, USA <span style="float:right;"><em> 2020 </em></span>
-</dd>
-
-<dd> University of Warwick Exoplanet Seminar, Coventry, UK <span style="float:right;"><em> 2019 </em></span>
-</dd>
-
-<dd> UK Exoplanet Community Meeting, Imperial College London, UK <span style="float:right;"><em> 2019 </em></span>
-</dd>
-
-<dd> 233rd Meeting of the American Astronomical Society, Seattle, USA <span style="float:right;"><em> 2019 </em></span>
-</dd>
-
-<dd> Radiative Signatures from the Cosmos, Paris, France <span style="float:right;"><em> 2018 </em></span>
-</dd>
-
-<dd> Kavli Institute Seminar, Cambridge, UK <span style="float:right;"><em> 2018 </em></span>
-</dd>
-
-<dd> Exo-Cam Exoplanet Seminar, Cambridge, UK <span style="float:right;"><em> 2017 </em></span>
-</dd>
-
-<dd> Undergraduate Physics Seminar, St Catharine's College, Cambridge, UK <span style="float:right;"><em> 2017 </em></span>
-</dd>
-
-<dt> Posters</dt>
-<dd> UK Exoplanet Community Meeting, Oxford, UK <span style="float:right;"><em> 2018 </em></span>
-</dd>
-
-<dd> UK Exoplanet Community Meeting, St Andrews, UK <span style="float:right;"><em> 2017 </em></span>
-</dd>
-
-<dd> UK Exoplanet Community Meeting, Exeter, UK <span style="float:right;"><em> 2016 </em></span>
-</dd>
-</dl>
-
-## Teaching Experience
-
-<dl>
-<dt> 1st Year Undergraduate supervisor for Natural Sciences (x2) <span style="float:right;"><em> 2015-2016, 2016-2017 </em></span></dt>
-  <dd> <u>Subjects Supervised:</u>
-  Dynamics, Oscillating Systems, Waves and Quantum Waves, Rotational Mechanics, Special Relativity, Gravitational and Electromagnetic Fields
-</dd>
-  
-<dt> 1st Year Mathematics for Natural Sciences Mark Checker (x3) <span style="float:right;"><em> 2016, 2017, 2018 </em></span></dt>
 </dl>
 
 ## STEM Education and Outreach
@@ -202,7 +152,7 @@ Title: About Me
   </dd>
 </dl>
 
-## Computing Experience in C++ and Python
+<!--## Computing Experience in C++ and Python
 
 <dl>
 <dd>
@@ -219,7 +169,7 @@ Title: About Me
   GPU Computation
 </dd>
 </dl>
-
+-->
 <!--## Peer Review
 <dl>
 <dt> Journal Reviewer</dt>
