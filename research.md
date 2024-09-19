@@ -13,7 +13,7 @@ My research is focused on answering some of the fundamental questions in exoplan
 
 * **How common are habitable/Earth-like planets?**
 
-Here, you can find some of the research areas which I am actively involved in, such as [transiting exoplanets]({{site.baseurl}}/research_projects/transits.html), [directly-imaged exoplanets]({{site.baseurl}}/research_projects/direct_imaging.html) and [multi-dimensional atmospheric modelling]({{site.baseurl}}/research_projects/multi_d.html). You can also find a list of my publications [here]({{site.baseurl}}/publications.html). Feel free to get in touch if you'd like to know more about these or other projects I am involved in!
+Here, you can find some of the research areas which I am actively involved in, such as [transiting exoplanets]({{site.baseurl}}/research_projects/transits.html), [directly-imaged exoplanets]({{site.baseurl}}/research_projects/direct_imaging.html) and [multi-dimensional atmospheric modelling]({{site.baseurl}}/research_projects/multi_d.html). You can also find a list of my publications [here](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9552-3709&sort=date%20desc%2C%20bibcode%20desc&p_=0). Feel free to get in touch if you'd like to know more about these or other projects I am involved in!
 
 <h2>Low- vs High-Resolution Spectroscopy</h2>
 
