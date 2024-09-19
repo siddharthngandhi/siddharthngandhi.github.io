@@ -7,6 +7,10 @@ description: Publications
 
 {: reversed="reversed"}
 
+11. **S. Gandhi**, S. de Regt, I. Snellen + 4 co-authors,
+[JWST Measurements of <\sup>13<\sup>C, 18O, and 17O in the Atmosphere of Super-Jupiter VHS 1256 b ](https://ui.adsabs.harvard.edu/abs/2023ApJ...957L..36G/abstract), 
+_The Astrophysical Journal Letters, 957, L36 (2023)_
+
 10. **S. Gandhi**, A. Kesseli, Y. Zhang, A. Louca, I. Snellen + 7 co-authors, 
 [Retrieval Survey of Metals in Six Ultrahot Jupiters: Trends in Chemistry, Rain-out, Ionization, and Atmospheric Dynamics](https://ui.adsabs.harvard.edu/abs/2023AJ....165..242G/abstract), 
 _The Astronomical Journal, 165, 242 (2023)_
@@ -47,7 +51,7 @@ _Monthly Notices of the Royal Astronomical Society (MNRAS), 474, 271 (2018)_
 [GENESIS: New Self-consistent Models of Exoplanetary Spectra](https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.2334G/abstract), 
 _Monthly Notices of the Royal Astronomical Society (MNRAS), 472, 2334 (2017)_
 
-## Co-author Publications 
+## Selected Co-author Publications 
 
 24. E. Ahrer, P. Wheatley, **S. Gandhi** + 3 co-authors,
 <span style="color: #1e6bb8"> LRG-BEASTS: Evidence for clouds in the transmission spectrum of HATS-46 b</span>,
