@@ -106,6 +106,8 @@ Title: About Me
 <dd> 237th Meeting of the American Astronomical Society <span style="float:right;"><em> 2021 </em></span>
 </dd>
 
+</dl>
+
 ## Awards
 
 <dl>
