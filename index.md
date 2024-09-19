@@ -34,11 +34,13 @@ banner_image: banner
 
 <h2>Recent Publications</h2>
 
+[The ESO SupJup Survey. I. Chemical and isotopic characterisation of the late L-dwarf DENIS J0255-4700 with CRIRES+](https://ui.adsabs.harvard.edu/abs/2024A%26A...688A.116D/abstract)
+
+[JWST Measurements of <sup>13</sup>C, <sup>18</sup>O, and <sup>17</sup>O in the Atmosphere of Super-Jupiter VHS 1256 b ](https://ui.adsabs.harvard.edu/abs/2024A%26A...688A.116D/abstract)
+
 [Retrieval Survey of Metals in Six Ultrahot Jupiters: Trends in Chemistry, Rain-out, Ionization, and Atmospheric Dynamics](https://ui.adsabs.harvard.edu/abs/2023AJ....165..242G/abstract)
 
 [Spatially-resolving the terminator: Variation of Fe, temperature and winds in WASP-76 b across planetary limbs and orbital phase](https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..749G/abstract)
-
-[Seeing Above the Clouds with High Resolution Spectroscopy](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498..194G/abstract)
 
 <!--[A solar C/O and sub-solar metallicity in a hot Jupiter atmosphere](https://ui.adsabs.harvard.edu/abs/2021Natur.598..580L/abstract)
 
