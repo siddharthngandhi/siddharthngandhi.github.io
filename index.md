@@ -9,7 +9,7 @@ banner_image: banner
 
 <p>I am an assistant professor in the Astronomy and Astrophysics group in the Department of Physics at the University of Warwick, working on the characterisation of exoplanetary atmospheres. My research aims to answer some of the key questions in exoplanet science, such as how do planets form, how diverse are the processes in exoplanets, and how unique is our Solar System and our planet?</p>
 
-<p>On this website, you can find information about my <a href="{{site.baseurl}}/research.html">research</a>, <a href="{{site.baseurl}}/publications.html">publications</a> and <a href="{{site.baseurl}}/aboutme.html">about me</a>. Feel free to get in touch if you would like to know more!</p>
+<p>On this website, you can find information about my <a href="{{site.baseurl}}/research.html">research</a>, <a href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9552-3709&sort=date%20desc%2C%20bibcode%20desc&p_=0">publications</a> and <a href="{{site.baseurl}}/aboutme.html">about me</a>. Feel free to get in touch if you would like to know more!</p>
 
 </div>
   <div class="column" style="width: 32%; font-size:15px"><img style="float: right; width: 100%" src="{{site.baseurl}}/images/gandhi.jpg">
