@@ -34,6 +34,8 @@ banner_image: banner
 
 <h2>Recent Publications</h2>
 
+[The ESO SupJup Survey V: exploring atmospheric variability and orbit of the super-Jupiter AB Pictoris b with CRIRES+](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537..134G/abstract)
+
 [The ESO SupJup Survey. I. Chemical and isotopic characterisation of the late L-dwarf DENIS J0255-4700 with CRIRES+](https://ui.adsabs.harvard.edu/abs/2024A%26A...688A.116D/abstract)
 
 [JWST Measurements of <sup>13</sup>C, <sup>18</sup>O, and <sup>17</sup>O in the Atmosphere of Super-Jupiter VHS 1256 b ](https://ui.adsabs.harvard.edu/abs/2024A%26A...688A.116D/abstract)
