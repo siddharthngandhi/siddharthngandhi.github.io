@@ -79,6 +79,12 @@ Title: About Me
 
 <dt>Conferences/Seminars </dt>
 
+<dd> 2 HoRSES Meeting, Berlin, Germany <span style="float:right;"><em> 2024 </em></span>
+</dd>
+
+<dd> Exoplanets V, Leiden, Netherlands <span style="float:right;"><em> 2024 </em></span>
+</dd>
+
 <dd> Max Planck Institute for Astronomy Exoplanet Seminar, Heidelberg, Germany <span style="float:right;"><em> 2023 </em></span>
 </dd>
   
